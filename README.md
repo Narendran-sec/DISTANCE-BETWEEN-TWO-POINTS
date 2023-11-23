@@ -15,7 +15,9 @@ print the distance
 End the program
 ### PROGRAM:
 ```
-
+#program to distance between two points
+#developed by: Narendran.k
+#reference number: 23013500
 import math
 x1,x2,y1,y2=10,4,6,2
 dis=math.sqrt((pow((x2-x1),2)+pow((y2-y1),2)))
