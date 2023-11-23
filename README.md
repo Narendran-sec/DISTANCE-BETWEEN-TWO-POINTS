@@ -24,7 +24,7 @@ print(round(dis,2))
 
 
 ### OUTPUT:
-![output](/![output](https://github.com/Narendran-sec/DISTANCE-BETWEEN-TWO-POINTS/assets/147473131/4ed364a1-7f25-4c10-9817-4164cfe98378)
+![output](https://github.com/Narendran-sec/DISTANCE-BETWEEN-TWO-POINTS/assets/147473131/4ed364a1-7f25-4c10-9817-4164cfe98378)
 )
 
 ### RESULT:
